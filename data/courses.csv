@@ -1,0 +1,20 @@
+course_id,name,subject,capacity,room_requirements,prerequisites
+MATH101,Algebra I,Mathematics,25,"Whiteboard,Calculator",""
+MATH201,Geometry,Mathematics,25,"Whiteboard,Calculator",MATH101
+MATH301,Algebra II,Mathematics,25,"Whiteboard,Calculator",MATH201
+MATH401,Pre-Calculus,Mathematics,20,"Whiteboard,Calculator,Computer",MATH301
+ENG101,English I,English,28,"Whiteboard",""
+ENG201,English II,English,28,"Whiteboard",ENG101
+ENG301,English III,English,25,"Whiteboard,Computer",ENG201
+ENG401,English IV,English,25,"Whiteboard,Computer",ENG301
+SCI101,General Science,Science,24,"Lab Equipment,Safety Equipment",""
+SCI201,Biology,Science,22,"Lab Equipment,Microscopes,Safety Equipment",SCI101
+SCI301,Chemistry,Science,20,"Lab Equipment,Fume Hood,Safety Equipment",SCI201
+SCI401,Physics,Science,20,"Lab Equipment,Computer,Safety Equipment",SCI301
+HIST101,World History,History,30,"Whiteboard",""
+HIST201,US History,History,30,"Whiteboard,Computer",""
+HIST301,Government,History,25,"Whiteboard,Computer",""
+HIST401,Economics,History,25,"Whiteboard,Computer",""
+PE101,Physical Education,Physical Education,35,"Gymnasium Equipment",""
+ART101,Art I,Art,20,"Art Supplies,Easels",""
+MUSIC101,Music I,Music,25,"Musical Instruments,Piano",""

@@ -1,0 +1,12 @@
+room_id,name,capacity,equipment
+R101,Math Classroom A,30,"Whiteboard,Calculator,Projector"
+R102,Math Classroom B,30,"Whiteboard,Calculator,Computer"
+R201,English Classroom A,32,"Whiteboard,Computer,Projector"
+R202,English Classroom B,32,"Whiteboard,Computer"
+R301,Science Lab A,26,"Lab Equipment,Microscopes,Safety Equipment,Fume Hood"
+R302,Science Lab B,26,"Lab Equipment,Safety Equipment,Computer"
+R401,History Classroom A,35,"Whiteboard,Computer,Projector"
+R402,History Classroom B,35,"Whiteboard,Computer"
+GYM1,Gymnasium,40,"Gymnasium Equipment"
+ART1,Art Studio,25,"Art Supplies,Easels,Sink"
+MUS1,Music Room,30,"Musical Instruments,Piano,Sound System"

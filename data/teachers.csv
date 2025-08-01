@@ -1,0 +1,11 @@
+teacher_id,name,qualifications,max_classes_per_day,available_periods
+T001,Ms. Anderson,"Mathematics,Algebra,Geometry",6,"1,2,3,4,5,6"
+T002,Mr. Thompson,"English,Literature,Writing",7,"1,2,3,4,5,6,7"
+T003,Dr. Wilson,"Science,Biology,Chemistry,Physics",6,"2,3,4,5,6,7"
+T004,Ms. Davis,"History,Social Studies,Geography",5,"1,2,3,4,5"
+T005,Mr. Martinez,"Physical Education,Health,Sports",7,"1,2,3,4,5,6,7"
+T006,Ms. Johnson,"Art,Drawing,Painting,Design",4,"3,4,5,6"
+T007,Mr. Brown,"Music,Band,Choir",3,"1,2,7"
+T008,Ms. Lee,"Mathematics,Statistics,Calculus",6,"1,2,3,4,5,6"
+T009,Dr. Garcia,"Science,Environmental Science,Earth Science",5,"2,3,4,5,6"
+T010,Mr. Rodriguez,"English,Creative Writing,Drama",6,"1,2,3,4,6,7"
