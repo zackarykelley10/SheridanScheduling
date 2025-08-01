@@ -1,0 +1,18 @@
+id,name,capacity,room_type
+R101,Math Classroom 1,30,classroom
+R102,Math Classroom 2,30,classroom
+R103,Math Classroom 3,25,classroom
+R201,English Classroom 1,32,classroom
+R202,English Classroom 2,32,classroom
+R203,English Classroom 3,30,classroom
+R301,Science Lab 1,24,lab
+R302,Science Lab 2,24,lab
+R303,Science Lab 3,20,lab
+R401,History Classroom 1,35,classroom
+R402,History Classroom 2,35,classroom
+R501,Art Studio,25,studio
+R502,Music Room,45,music
+R503,Computer Lab,30,lab
+R601,Gymnasium,40,gym
+R602,PE Classroom,38,classroom
+R701,Language Lab,28,lab
