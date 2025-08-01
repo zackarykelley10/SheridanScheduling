@@ -1,0 +1,16 @@
+id,name,qualified_subjects,max_periods
+T001,Ms. Johnson,"Math,Science",6
+T002,Mr. Smith,"English,History",7
+T003,Dr. Davis,"Science,Math",5
+T004,Ms. Wilson,"Art,Music",7
+T005,Coach Brown,"PE,Health",7
+T006,Mr. Miller,"Computer Science,Math",6
+T007,Ms. Lee,"Spanish,English",7
+T008,Mr. Taylor,"History,Government",6
+T009,Ms. Chen,"Science,Environmental Science",7
+T010,Mr. Anderson,"Math,Computer Science",6
+T011,Ms. White,"English,Literature",7
+T012,Mr. Garcia,"Music,Band",5
+T013,Ms. Rodriguez,"Art,Design",6
+T014,Mr. Martinez,"PE,Sports",7
+T015,Ms. Clark,"Economics,Business",6
